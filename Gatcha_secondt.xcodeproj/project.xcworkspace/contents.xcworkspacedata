@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Gatcha_secondt.xcodeproj">
+      location = "group:/Users/arisamuto/Desktop/Gatcha_secondt/Gatcha_secondt/ResultViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/arisamuto/Desktop/Gatcha_secondt/Gatcha_secondt/ResultViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/arisamuto/Desktop/Gatcha_secondt/Gatcha_secondt/gacha@2x.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

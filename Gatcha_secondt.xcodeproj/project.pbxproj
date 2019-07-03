@@ -12,6 +12,7 @@
 		80956D8B22CA56E80079677B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80956D8922CA56E80079677B /* Main.storyboard */; };
 		80956D8D22CA56EB0079677B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80956D8C22CA56EB0079677B /* Assets.xcassets */; };
 		80956D9022CA56EB0079677B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80956D8E22CA56EB0079677B /* LaunchScreen.storyboard */; };
+		80956D9B22CCF9BE0079677B /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80956D9A22CCF9BE0079677B /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,8 @@
 		80956D8C22CA56EB0079677B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80956D8F22CA56EB0079677B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80956D9122CA56EB0079677B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80956D9722CCF9700079677B /* gacha@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "gacha@2x.png"; path = "/Users/arisamuto/Desktop/Gatcha_secondt/Gatcha_secondt/gacha@2x.png"; sourceTree = "<absolute>"; };
+		80956D9A22CCF9BE0079677B /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ResultViewController.swift; path = /Users/arisamuto/Desktop/Gatcha_secondt/Gatcha_secondt/ResultViewController.swift; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +59,8 @@
 			children = (
 				80956D8522CA56E70079677B /* AppDelegate.swift */,
 				80956D8722CA56E70079677B /* ViewController.swift */,
+				80956D9A22CCF9BE0079677B /* ResultViewController.swift */,
+				80956D9722CCF9700079677B /* gacha@2x.png */,
 				80956D8922CA56E80079677B /* Main.storyboard */,
 				80956D8C22CA56EB0079677B /* Assets.xcassets */,
 				80956D8E22CA56EB0079677B /* LaunchScreen.storyboard */,
@@ -137,6 +142,7 @@
 			files = (
 				80956D8822CA56E80079677B /* ViewController.swift in Sources */,
 				80956D8622CA56E70079677B /* AppDelegate.swift in Sources */,
+				80956D9B22CCF9BE0079677B /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
